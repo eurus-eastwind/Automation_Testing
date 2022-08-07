@@ -1,3 +1,4 @@
+@ignore
 Feature: Calling other feature file
 
   Scenario: Call google search feature

@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: Search in PUP
   Scenario Outline: Using PUP search bar - <name>
     Given def step0 = 'Using Chrome as a browser'

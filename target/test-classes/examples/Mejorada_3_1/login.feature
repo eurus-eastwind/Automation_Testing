@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: Redirecting to PUP Appointment System and login
   Scenario Outline: Using PUP Appointment System Login- <name>
     Given def step0 = 'Using Chrome as a browser'

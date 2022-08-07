@@ -1,3 +1,4 @@
+@ignore
 Feature: XML Test
 
  Scenario: Google Version Test

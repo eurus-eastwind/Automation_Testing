@@ -1,3 +1,4 @@
+@ignore
 Feature: DB Feature
 
   Scenario:

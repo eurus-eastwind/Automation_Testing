@@ -2,10 +2,10 @@
            name="src/test/java/examples/Mejorada_3_1/login.feature"
            skipped="0"
            tests="1"
-           time="23.144846">
+           time="53.005777">
    <testcase classname="src.test.java.examples.Mejorada_3_1.login"
              name="Using PUP Appointment System Login- Details"
-             time="23.144846">
+             time="53.005777">
       <system-out>Given def step0 = 'Using Chrome as a browser' ............................. passed
 * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
 And def step1 = 'Browser navigates to PUP search website' ................. passed
