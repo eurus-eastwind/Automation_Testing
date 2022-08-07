@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: Search in Google
 
 Scenario Outline: Testing Search Feature in PUP Site - <name>

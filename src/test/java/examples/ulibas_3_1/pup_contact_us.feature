@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: Contact us in PUP
 
  Scenario Outline: Contact us Feature in PUP Site - <name>

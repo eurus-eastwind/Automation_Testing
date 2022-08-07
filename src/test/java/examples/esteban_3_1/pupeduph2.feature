@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: Search in Google
 
 Scenario Outline: Using navigation bar of PUP Site - <name>

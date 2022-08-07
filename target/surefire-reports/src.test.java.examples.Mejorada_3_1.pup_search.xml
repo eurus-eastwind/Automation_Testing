@@ -2,10 +2,10 @@
            name="src/test/java/examples/Mejorada_3_1/pup_search.feature"
            skipped="0"
            tests="2"
-           time="45.135931">
+           time="58.167972">
    <testcase classname="src.test.java.examples.Mejorada_3_1.pup_search"
              name="Using PUP search bar - President Search"
-             time="24.640292">
+             time="32.210718">
       <system-out>Given def step0 = 'Using Chrome as a browser' ............................. passed
 * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
 And def step1 = 'Browser navigates to PUP search website' ................. passed
@@ -41,7 +41,7 @@ Then def step14 = 'User expected result should display the output in the table' 
    </testcase>
    <testcase classname="src.test.java.examples.Mejorada_3_1.pup_search"
              name="Using PUP search bar - University Search"
-             time="20.495639">
+             time="25.957253">
       <system-out>Given def step0 = 'Using Chrome as a browser' ............................. passed
 * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
 And def step1 = 'Browser navigates to PUP search website' ................. passed

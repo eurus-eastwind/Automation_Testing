@@ -2,10 +2,10 @@
            name="src/test/java/examples/ulibas_3_1/pup_contact_us.feature"
            skipped="0"
            tests="1"
-           time="20.115988">
+           time="17.828524">
    <testcase classname="src.test.java.examples.ulibas_3_1.pup_contact_us"
              name="Contact us Feature in PUP Site - PUP Contact us"
-             time="20.115988">
+             time="17.828524">
       <system-out>Given def step0 = 'Using Chrome as a browser' ............................. passed
 * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
 And def step1 = 'Browser navigates to PUP search website' ................. passed

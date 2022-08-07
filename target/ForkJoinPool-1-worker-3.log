@@ -1,5 +1,13 @@
-19:12:01.318 karate.env system property was:  
-19:12:22.931 karate.env system property was:  
-19:12:22.931 preferred port 9515 not available, will use: 14917
-19:08:19.413 driver config / start failed: failed to get reply for: [id: 5, method: Browser.getWindowForTarget, params: {targetId=F42EF746EB891A4FD8FF921DA1783B5F}], options: {type=chrome, executable=C:/Program Files/Google/Chrome/Application/chrome.exe, target=null}
- use: 14327
+21:48:44.457 karate.env system property was:  
+21:49:19.638 karate.env system property was:  
+21:49:19.670 preferred port 9515 not available, will use: 6303
+t:9222 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect, options: {type=chrome, executable=C:/Program Files/Google/Chrome/Application/chromedriver.exe, target=null}
+21:44:20.577 karate.env system property was:  
+21:44:20.592 preferred port 9222 not available, will use: 6080
+452
+21:17:00.874 preferred port 9515 not available, will use: 4544
+21:17:19.320 preferred port 9515 not available, will use: 4631
+21:17:43.685 karate.env system property was:  
+21:18:27.792 karate.env system property was:  
+21:18:27.808 preferred port 9222 not available, will use: 4812
+21:18:37.386 waitForUrl - retry #1

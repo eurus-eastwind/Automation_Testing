@@ -2,10 +2,10 @@
            name="src/test/java/examples/esteban_3_1/pupeduph.feature"
            skipped="0"
            tests="1"
-           time="11.867531">
+           time="19.876585">
    <testcase classname="src.test.java.examples.esteban_3_1.pupeduph"
              name="Testing Search Feature in PUP Site - Karate Search"
-             time="11.867531">
+             time="19.876585">
       <system-out>Given def step1 = 'Using Chrome as a browser' ............................. passed
 * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
 And def step2 = 'Browser Navigates to PUP search website' ................. passed
