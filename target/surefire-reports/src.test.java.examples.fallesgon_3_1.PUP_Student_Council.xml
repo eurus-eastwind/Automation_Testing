@@ -1,0 +1,15 @@
+<testsuite failures="0"
+           name="src/test/java/examples/fallesgon_3_1/PUP_Student_Council.feature"
+           skipped="0"
+           tests="1"
+           time="43.651887">
+   <testcase classname="src.test.java.examples.fallesgon_3_1.PUP_Student_Council"
+             name="PUP Calendar Student Council page"
+             time="43.651887">
+      <system-out>* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}Students') .................................................. passed
+When click('{a}Student Council') .......................................... passed
+Then waitForUrl('www.pup.edu.ph/students/council') ........................ passed</system-out>
+   </testcase>
+</testsuite>

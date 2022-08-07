@@ -1,0 +1,20 @@
+<testsuite failures="0"
+           name="src/test/java/examples/boquiren_3_1/PUP_History.feature"
+           skipped="0"
+           tests="1"
+           time="38.48324">
+   <testcase classname="src.test.java.examples.boquiren_3_1.PUP_History"
+             name="History of PUP Website History of PUP"
+             time="38.48324">
+      <system-out>Given def step0 = 'Using Chrome as browser' ............................... passed
+* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+And def step1 = 'Browser navigates to PUP Website' ........................ passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And def step2 = 'Maximize Browser' ........................................ passed
+* maximize() .............................................................. passed
+And def step3 = 'Click About PUP' ......................................... passed
+* click('{a}About PUP') ................................................... passed
+And click('{a}History') ................................................... passed
+Then waitForUrl('www.pup.edu.ph/about/history') ........................... passed</system-out>
+   </testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<testsuite failures="0"
+           name="src/test/java/examples/lupo_3_1/pup_bor.feature"
+           skipped="0"
+           tests="1"
+           time="39.594144">
+   <testcase classname="src.test.java.examples.lupo_3_1.pup_bor"
+             name="Board of Regents - About PUP"
+             time="39.594144">
+      <system-out>* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}About PUP') ................................................. passed
+When click('{a}Board of Regents') ......................................... passed
+Then waitForUrl('https://www.pup.edu.ph/about/board') ..................... passed</system-out>
+   </testcase>
+</testsuite>
