@@ -1,0 +1,29 @@
+<testsuite failures="0"
+           name="src/test/java/examples/villaruz3_1/pup_test.feature"
+           skipped="0"
+           tests="2"
+           time="60.547585">
+   <testcase classname="src.test.java.examples.villaruz3_1.pup_test"
+             name="Research - PUP Website Researches"
+             time="29.904612">
+      <system-out>* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}Researches') ................................................ passed
+When click('{a}Researches') ............................................... passed
+Then waitForUrl('https://www.pup.edu.ph/research/rmo/') ................... passed</system-out>
+   </testcase>
+   <testcase classname="src.test.java.examples.villaruz3_1.pup_test"
+             name="Research - PUP Website Extensions"
+             time="30.642973">
+      <system-out>* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}Researches') ................................................ passed
+When click('{a}Researches') ............................................... passed
+Then waitForUrl('https://www.pup.edu.ph/research/rmo/') ................... passed
+* configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}Researches') ................................................ passed
+When click('{a}Extensions') ............................................... passed
+Then waitForUrl('https://www.pup.edu.ph/research/emo/') ................... passed</system-out>
+   </testcase>
+</testsuite>

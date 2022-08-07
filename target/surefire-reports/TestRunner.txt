@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 580.447 s <<< FAILURE! - in TestRunner
+testParallel  Time elapsed: 580.34 s  <<< FAILURE!
+java.lang.AssertionError: 
+failed features:
+src.test.java.examples.boquiren_3_1.PUP_History: [1.1:18] PUP_History.feature:14 - evaluation (js) failed: waitForUrl('www.pup.edu.ph/history'), waitForUrl: failed after 3 retries and 9171 milliseconds
+src.test.java.examples.fallesgon_3_1.PUP_Student_Council: [1.1:13] PUP_Student_Council.feature:8 - evaluation (js) failed: click('{a}Student Council'), 
+java.net.SocketTimeoutException: Read timed out
+src.test.java.examples.muyrong_3_1.download: [1.1:19] download.feature:15 - evaluation (js) failed: waitForUrl('https://www.pup.edu.ph/downloads/employees/'), waitForUrl: failed after 3 retries and 9164 milliseconds
+src.test.java.examples.rosemblot_3_1.Rosemblot - pup_studentservices: [1.1:13] Rosemblot - pup_studentservices.feature:6 - 
+java.net.SocketTimeoutException: Read timed out
+
+	at TestRunner.testParallel(TestRunner.java:22)
+

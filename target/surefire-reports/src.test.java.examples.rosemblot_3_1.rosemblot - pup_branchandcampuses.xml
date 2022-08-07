@@ -1,0 +1,15 @@
+<testsuite failures="0"
+           name="src/test/java/examples/rosemblot_3_1/rosemblot - pup_branchandcampuses.feature"
+           skipped="0"
+           tests="1"
+           time="39.65708">
+   <testcase classname="src.test.java.examples.rosemblot_3_1.rosemblot - pup_branchandcampuses"
+             name="Branch n Campuses &lt; name &gt;"
+             time="39.65708">
+      <system-out>* configure driver = { type: 'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe' } . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{ a }About PUP') ............................................... passed
+When click('{ a }Branches and Satellite Campuses') ........................ passed
+Then waitForUrl('https://www.pup.edu.ph/about/branchescampuses') .......... passed</system-out>
+   </testcase>
+</testsuite>

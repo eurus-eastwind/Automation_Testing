@@ -1,0 +1,15 @@
+<testsuite failures="0"
+           name="src/test/java/examples/defiesta_3_1/DEFIESTA - pup_branchncampuses.feature"
+           skipped="0"
+           tests="1"
+           time="23.15732">
+   <testcase classname="src.test.java.examples.defiesta_3_1.DEFIESTA - pup_branchncampuses"
+             name="Branch n Campuses About PUP"
+             time="23.15732">
+      <system-out>* configure driver = {type:'chrome', executable: 'C:/Program Files/Google/Chrome/Application/chrome.exe'} . passed
+* driver 'https://www.pup.edu.ph/' ........................................ passed
+And click('{a}About PUP') ................................................. passed
+When click('{a}Branches and Satellite Campuses') .......................... passed
+Then waitForUrl('https://www.pup.edu.ph/about/branchescampuses') .......... passed</system-out>
+   </testcase>
+</testsuite>
