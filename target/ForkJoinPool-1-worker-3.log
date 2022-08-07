@@ -1,0 +1,46 @@
+00:54:34.105 karate.env system property was:  
+00:51:15.470 waitForUrl - retry #1
+00:51:18.496 waitForUrl - retry #2
+00:51:21.539 waitForUrl - retry #3
+00:51:24.585 waitForUrl: failed after 3 retries and 9178 milliseconds
+
+y #2
+00:09:42.842 waitForUrl - retry #3
+00:09:45.875 waitForUrl: failed after 3 retries and 9171 milliseconds
+00:09:47.932 karate.env system property was:  
+00:09:47.948 preferred port 9515 not available, will use: 21893
+00:10:12.727 karate.env system property was:  
+00:10:12.740 preferred port 9515 not available, will use: 21972
+00:11:27.752 karate.env system property was:  
+00:11:27.768 preferred port 9515 not available, will use: 22088
+00:12:12.472 karate.env system property was:  
+00:12:12.490 preferred port 9515 not available, will use: 22179
+00:12:53.926 preferred port 9515 not available, will use: 22262
+00:14:00.111 karate.env system property was:  
+00:14:00.143 preferred port 9515 not available, will use: 22358
+00:14:36.701 waitForUrl - retry #1
+00:14:39.729 waitForUrl - retry #2
+00:14:42.798 waitForUrl - retry #3
+00:14:45.838 waitForUrl: failed after 3 retries and 9164 milliseconds
+00:14:48.865 karate.env system property was:  
+00:14:48.881 preferred port 9515 not available, will use: 22456
+00:15:12.167 karate.env system property was:  
+00:15:12.177 preferred port 9515 not available, will use: 22524
+00:15:55.322 karate.env system property was:  
+00:15:55.338 preferred port 9515 not available, will use: 22610
+00:16:39.574 karate.env system property was:  
+00:16:39.637 preferred port 9515 not available, will use: 22690
+ will use: 21383
+23:56:09.123 waitForUrl - retry #1
+23:56:12.169 waitForUrl - retry #2
+23:56:15.185 waitForUrl - retry #3
+23:56:18.218 waitForUrl: failed after 3 retries and 9127 milliseconds
+23:56:20.184 karate.env system property was:  
+23:56:20.200 preferred port 9222 not available, will use: 21485
+23:56:58.175 waitForUrl - retry #1
+23:57:01.671 karate.env system property was:  
+23:57:01.720 preferred port 9222 not available, will use: 21560
+23:57:12.834 karate.env system property was:  
+23:57:12.848 preferred port 9222 not available, will use: 21591
+23:57:37.211 karate.env system property was:  
+23:57:37.227 preferred port 9222 not available, will use: 21621
