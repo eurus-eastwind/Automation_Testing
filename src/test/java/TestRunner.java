@@ -15,7 +15,7 @@ public class TestRunner {
     @Test
     public void testParallel() {
 
-        Results results = Runner.path("src/test/java/examples")
+        Results results = Runner.path("src/test/java/examples/muyrong_3_1/download.feature")
                 .tags("~@ignore").parallel(1);
         //Results results = Runner.parallel(getClass(), 5);
         generateReport(results.getReportDir());

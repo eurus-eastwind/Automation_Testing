@@ -1,4 +1,4 @@
-@smoke
+@smoke @ignore
 Feature: PUP_Website
 
   Scenario Outline: Research - PUP Website <name>

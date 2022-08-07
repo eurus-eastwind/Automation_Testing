@@ -2,7 +2,7 @@
 Feature: PUP_Website
 
   Scenario Outline: About PUP Website <name>
-    * configure driver = {type:'chrome', executable: 'C:/Program Files/Google/Chrome/Application/chrome.exe'}
+    * configure driver = {type:'chromedriver', executable: 'C:/Program Files/Google/Chrome/Application/chromedriver.exe'}
     * driver 'https://www.pup.edu.ph/'
     And click('<btn1>')
     When click('<btn2>')
