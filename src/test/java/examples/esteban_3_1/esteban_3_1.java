@@ -1,4 +1,4 @@
-package examples.activity001;
+package examples.esteban_3_1;
 
 import com.intuit.karate.Results;
 import com.intuit.karate.Runner;
@@ -12,8 +12,7 @@ import org.apache.commons.io.FileUtils;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-
-public class ExamplesTest {
+public class esteban_3_1 {
 
     @Test
     public void testParallel() {
